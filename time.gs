@@ -18,7 +18,7 @@ list _time_tz_areas = [
     "Western US", 
     "Central US, Mexico", 
     "Central US, Columbia, Peru", 
-    "Boliviam, Venezuela, Eastern US, Quebec", 
+    "Bolivia, Venezuela, Eastern US, Quebec", 
     "Greenland, Argentina, Chile, Eastern Brazil", 
     "Atlantic", 
     "Cape Verde", 
